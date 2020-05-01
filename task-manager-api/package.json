@@ -1,5 +1,5 @@
 {
-  "name": "project-manager-api",
+  "name": "task-manager-api",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
