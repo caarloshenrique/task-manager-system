@@ -1,6 +1,19 @@
 # task-manager-system
 > :white_check_mark: Um gerenciador de tarefas desenvolvido a partir das tecnologias: React.js e Node.js
 
+## :rocket: Tecnologias utilizadas
+
+O projeto foi feito utilizando as seguintes tecnologias:
+
+- [NodeJS](https://nodejs.org/en/)
+- [ExpressJS](https://expressjs.com/pt-br/)
+- [MongoDB](https://www.mongodb.com/)
+- [ReactJS](https://reactjs.org/)
+- [Axios](https://github.com/axios/axios)
+- [JSON Web Tokens](https://jwt.io/)
+- [Styled-Components](https://styled-components.com/)
+{...}
+
 ## Interfaces 💻
 
 ### Home
