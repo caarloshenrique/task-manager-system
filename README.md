@@ -14,7 +14,7 @@ O projeto foi feito utilizando as seguintes tecnologias:
 - [Styled-Components](https://styled-components.com/)
 {...}
 
-## Interfaces 💻
+## :computer: Interfaces
 
 ### Home
 <p align="center">
