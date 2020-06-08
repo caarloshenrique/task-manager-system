@@ -36,6 +36,19 @@ O projeto foi feito utilizando as seguintes tecnologias:
     <img src="/public/assets/task-manager-user.png">
 </p>
 
+# :fire: Executando a aplicação
+
+### :bug: Back-end
+#### Configuração
+```
+$ cd task-manager-system-api
+$ yarn
+```
+#### Execução
+```
+$ yarn start
+```
+
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
 
