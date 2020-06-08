@@ -36,7 +36,7 @@ O projeto foi feito utilizando as seguintes tecnologias:
     <img src="/public/assets/task-manager-user.png">
 </p>
 
-# :fire: Executando a aplicação
+## :fire: Executando a aplicação
 
 ### :bug: Back-end
 #### Configuração
