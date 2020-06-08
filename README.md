@@ -48,6 +48,17 @@ $ yarn
 ```
 $ yarn start
 ```
+### :cyclone: Front-end
+#### Configuração
+
+```
+$ cd task-manager-system-app
+$ yarn
+```
+#### Execução
+```
+$ yarn start
+```
 
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
