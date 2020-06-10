@@ -16,22 +16,22 @@ O projeto foi feito utilizando as seguintes tecnologias:
 
 ## :computer: Interfaces
 
-### Home
+### :house: Home
 <p align="center">
     <img src="/public/assets/task-manager-home.png">
 </p>
 
-### Tarefas
+### :dart: Tarefas
 <p align="center">
     <img src="/public/assets/task-manager-tasks.png">
 </p>
 
-### Nova Tarefa
+### :white_check_mark: Nova Tarefa
 <p align="center">
     <img src="/public/assets/task-manager-task.png">
 </p>
 
-### Novo Usuário
+### :bust_in_silhouette: Novo Usuário
 <p align="center">
     <img src="/public/assets/task-manager-user.png">
 </p>
