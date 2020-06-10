@@ -36,6 +36,11 @@ O projeto foi feito utilizando as seguintes tecnologias:
     <img src="/public/assets/task-manager-user.png">
 </p>
 
+## :clipboard: Pré-requisitos
+
+- [NodeJS LTS (ou superior)](https://nodejs.org/en/)
+- [MongoDB](https://www.mongodb.com/)
+
 ## :fire: Executando a aplicação
 
 ### :bug: Back-end
